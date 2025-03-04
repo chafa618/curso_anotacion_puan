@@ -2,19 +2,7 @@
 
 ## Requerimientos técnicos
 
-En la cursada vamos a utilizar diversos recursos computacionales, principalmente en los lenguajes de programación Python y Prolog, librerías como NLTK, Spacy y Delphin, entre otras, programas como Wish, y el sistema de control de versiones git. Para poder hacer las actividades y correr los códigos que se suban a esta repositorio, es necesario que los estudiantes tengan todo lo necesario instalado.
-
-- Quienes tengan mayores conocimientos de programación pueden instalarse todo lo necesario a partir de la lista que incluimos abajo. Es importante aclarar que la cátedra no va a hacer un seguimiento personalizado de los problemas de instalación que puedan surgir mediante este método, por lo que recomendamos hacer la instalación independiente solo en caso de tener experiencia en la instalación de este tipo de recursos.
-    - [lista de recursos](./Instructivos/recursos.md)
-
-- Quienes no tienen experiencia en programación o en el manejo de la línea de comandos, pueden instalarse una máquina virtual especialmente diseñada para esta cursada. Una máquina virtual es una computadora huésped que corre dentro de la anfitriona. La computadora huésped tiene su propia memoria asignada y su propio sistema operativo. La presente máquina virtual tiene como sistema operativo Ubuntu y tiene ya instalado todo lo que vamos a usar en la cursada. Pueden acceder con el siguiente link
-    - [máquina virtual](./Instructivos/tutorialmv.pdf) (el sistema operativo anfitrión es indistinto)
-
-En las partes teóricas de las clases vamos a usar *handouts* en pdf. Puestos que algunos de estos documentos incluyen campos especiales que no son compatibles con todos los visualizadores de pdf (por ejemplo, no todas las versiones del acrobat reader), recomendamos utilizar [evince](https://wiki.gnome.org/Apps/Evince). Pueden encontrar una versión para Windows [aquí](https://evince.softonic.com/) o [aquí](https://evince.uptodown.com/windows). No hemos probado ninguno de los dos links, por lo que agredecemos si nos pueden avisar si funcionan bien.
-
-## Instrucciones para los trabajos prácticos
-Para cumplir con la regularidad en este seminario, es necesario realizar una serie de trabajos prácticos que serán oportunamente presentados durante la cursada. Para poder resolverlos, es necesario tener en cuenta [estas instrucciones](./Instructivos/flujo_de_trabajo.md).
-
+En la cursada vamos a utilizar diversos recursos computacionales, ......
 ## Cronograma de clases y materiales
 
 <table>
@@ -26,7 +14,7 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
   </tr>
   <tr>
     <td><a href="./Clase1/index.md">01</a></td>
-    <td>22/03/22</td>
+    <td>22/03/25</td>
     <td>
         <ul>
             <li>Presentación del seminario.</li>
@@ -46,12 +34,12 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
     </td>
   </tr>
   <tr>
-    <td><a href="./Clase-02/index.md">02</a></td>
-    <td>05/04/22</td>
+    <td><a href="./Clase2/index.md">02</a></td>
+    <td>29/03/25</td>
     <td>
         <ul>
-            <li>Uso básico de git.</li>
-            <li>Formalización como matematización. Teoría de conjuntos y funciones. Nociones básicas de teoría de los lenguajes (lenguaje, alfabeto, etc.).</li>
+            <li>A completar.</li>
+            <li>A completar...</li>
             <li>Introducción a Python.</li>
         </ul>
     </td>
