@@ -31,13 +31,17 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
         <ul>
             <li>Presentación del seminario.</li>
             <li>Dinámica de clases.</li>
+            <li>1. la inteligencia artificial</li>
+            <li>2. programación clásica vs. el aprendizaje automático (machine learning).</li>
+            <li>3. Procesamiento del lenguaje natural: definición, tareas y enfoques;</li>
+            <li>4. lenguaje de programación Python en Google Colab (tipos de datos, variables, sintaxis básica)</li>
         </ul>
     </td>
     <td>
         <ul>
             <li><a href="https://forms.gle/aogRG9iQtLSGnf3q9">Form de presentación</a></li>
-            <li><a href="./Instructivos/github_user.md">Usuario de GitHub</a></li>
-            <li><a href="./Instructivos/tutorialmv.pdf">Máquina virtual</a></li>
+            <li><a href="./Instructivos/github_user.md">Nuevo Instructivo</a></li>
+            <li><a href="./Instructivos/tutorialmv.pdf">Otro Recurso especifico</a></li>
         </ul>
     </td>
   </tr>
