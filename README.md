@@ -26,12 +26,11 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
   </tr>
   <tr>
     <td><a href="./Clase1/index.md">01</a></td>
-    <td>29/03/22</td>
+    <td>22/03/22</td>
     <td>
         <ul>
-            <li>Presentación del equipo y del programa.</li>
+            <li>Presentación del seminario.</li>
             <li>Dinámica de clases.</li>
-            <li>Presentación de trabajos prácticos.</li>
         </ul>
     </td>
     <td>
